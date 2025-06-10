@@ -12,9 +12,15 @@ This is a simple budget tracking application built with React and Vite. It allow
 *   **Rupee Currency:** All financial values are displayed in Indian Rupees (₹).
 
 ## Screenshots :
-*Light Mode ---
+### Light Mode ---
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/d12fb767-d8cb-48a1-b17b-ec4d3082dab9" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/2c847f74-52bc-4180-9b6a-d9a74e5eba80" />
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/45cd5ade-f426-4b69-b244-20e3deff319f" />
 
+### Dark Mode ---
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/a359983c-1b9d-4069-a83e-468801ca1db7" />
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/4ae006e4-b3d1-4af6-a1dd-58e82704d699" />
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/f9a79c18-0ac1-4c58-9941-19c8c6f281e4" />
 
 ## Technologies Used
 
